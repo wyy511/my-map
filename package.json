@@ -13,7 +13,12 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "amap": "^1.0.7",
+    "node-sass": "^4.9.2",
+    "pug": "^2.0.3",
+    "sass-loader": "^7.0.3",
     "vue": "^2.5.2",
+    "vue-amap": "^0.5.8",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
